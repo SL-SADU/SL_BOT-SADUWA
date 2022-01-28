@@ -98,12 +98,12 @@ HAVE A FUN!
 
 ### step 2
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/SL-SADU/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/BlackVampired/Amdibell)
 
 
 
 ## 🔎 What SL SADU bot?
-**Sl sadu bot,** is a WhatsApp helper bot written by [MAHESH] and Developed by [mr.SADU]. Does not log into your account It is written on WhatsApp Web API.
+**Sl sadu bot,** is a WhatsApp helper bot written by [MAHESH] and Developed by [mr.MAHESH]. Does not log into your account It is written on WhatsApp Web API.
 
 ### The Hard Method (Not Recommend)
 ```js
