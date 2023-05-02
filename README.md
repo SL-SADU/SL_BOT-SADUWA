@@ -2,7 +2,7 @@
 <h4 align="center">I am a simple developer. Not like Dennis Ritchie..</h3>
 
 <div align="center">
-  <img src="https://i.ibb.co/hszqx2N/IMG-20220128-WA0000.jpg" width="300" height="300">      
+  <img src="https://i.ibb.co/TvsKrb2/20230502-165727.jpg" width="300" height="300">      
   <h1>😈S_L SADU BOT😈</h1>
 
 	  
